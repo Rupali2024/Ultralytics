@@ -1,0 +1,7 @@
+path: /content/final_data/
+train: images/train 
+val: images/val 
+# Classes
+nc: 1
+names: ['cat']
+  

@@ -1,0 +1,7 @@
+path: /content/objdet12
+train: train/images 
+val: val/images
+# Classes
+nc: 1
+names: ['cat']
+  
